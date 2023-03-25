@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# 25-5 Break Clock
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![25-5-clock](https://socialify.git.ci/mostafakamal22/25-5-clock/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Auto)
+
+
+<h2>🚀 Demo</h2>
+
+[https://mostafakamal22.github.io/25-5-clock/](https://mostafakamal22.github.io/25-5-clock/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://mostafakamal22.github.io/img/projects/25-5-clock.webp" alt="project-screenshot" width="375" height="100%">
 
 ## Available Scripts
 
